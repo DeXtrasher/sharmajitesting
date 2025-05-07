@@ -1,0 +1,1290 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/321go.mp3"
+                ],
+                "type": "audio",
+                "key": "321go"
+            },
+            {
+                "url": "assets/permanent_assets/Alcohol_2.png",
+                "type": "image",
+                "key": "Alcohol_2"
+            },
+            {
+                "url": "assets/temp_assets/allanimations.json",
+                "type": "animation",
+                "key": "allanimations"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/almirahs.png",
+                "type": "image",
+                "key": "almirahs"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/angrywalkleft.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "angrywalkleft"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/angrywalkright.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "angrywalkright"
+            },
+            {
+                "url": "assets/permanent_assets/badsharma.png",
+                "type": "image",
+                "key": "badsharma"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/belt1.mp3"
+                ],
+                "type": "audio",
+                "key": "belt1"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/belt2.mp3"
+                ],
+                "type": "audio",
+                "key": "belt2"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/belt3.mp3"
+                ],
+                "type": "audio",
+                "key": "belt3"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/belt4.mp3"
+                ],
+                "type": "audio",
+                "key": "belt4"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/bgplain.png",
+                "type": "image",
+                "key": "bgplain"
+            },
+            {
+                "url": "assets/permanent_assets/bignext.png",
+                "type": "image",
+                "key": "bignext"
+            },
+            {
+                "url": "assets/permanent_assets/bigskip.png",
+                "type": "image",
+                "key": "bigskip"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/boy.png",
+                "type": "image",
+                "key": "boy"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/boycrying.mp3"
+                ],
+                "type": "audio",
+                "key": "boycrying"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/boycrying-2.mp3"
+                ],
+                "type": "audio",
+                "key": "boycrying-2"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/boycrying-3.mp3"
+                ],
+                "type": "audio",
+                "key": "boycrying-3"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/boyhappy-2.mp3"
+                ],
+                "type": "audio",
+                "key": "boyhappy-2"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/boywalking.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "boywalking"
+            },
+            {
+                "url": "assets/Fonts/BrokenVessels.ttf",
+                "format": "truetype",
+                "descriptors": {},
+                "type": "font",
+                "key": "BrokenVessels"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/buttonclick.mp3"
+                ],
+                "type": "audio",
+                "key": "buttonclick"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/cameraclick.mp3"
+                ],
+                "type": "audio",
+                "key": "cameraclick"
+            },
+            {
+                "url": "assets/Fonts/CeraProBlack.otf",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "CeraProBlack"
+            },
+            {
+                "url": "assets/Fonts/CeraProBold.otf",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "CeraProBold"
+            },
+            {
+                "url": "assets/Fonts/CeraProLight.otf",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "CeraProLight"
+            },
+            {
+                "url": "assets/Fonts/CeraProMedium.otf",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "CeraProMedium"
+            },
+            {
+                "url": "assets/Fonts/CeraProRegular.otf",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "CeraProRegular"
+            },
+            {
+                "url": "assets/Fonts/CeraProThin.otf",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "CeraProThin"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/chair.png",
+                "type": "image",
+                "key": "chair"
+            },
+            {
+                "url": "assets/permanent_assets/chalkboardg.jpg",
+                "type": "image",
+                "key": "chalkboardg"
+            },
+            {
+                "url": "assets/Fonts/Chunkfive.otf",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "Chunkfive"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/cig.mp3"
+                ],
+                "type": "audio",
+                "key": "cig"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/ciganim.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "ciganim"
+            },
+            {
+                "url": "assets/permanent_assets/Cigarette_Butt.png",
+                "type": "image",
+                "key": "Cigarette_Butt"
+            },
+            {
+                "url": "assets/permanent_assets/comborectangle.png",
+                "type": "image",
+                "key": "comborectangle"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/cryingrunning.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cryingrunning"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/cryingrunningaudio.mp3"
+                ],
+                "type": "audio",
+                "key": "cryingrunningaudio"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/dhamdhamdham.mp3"
+                ],
+                "type": "audio",
+                "key": "dhamdhamdham"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/drumrollfanfare.mp3"
+                ],
+                "type": "audio",
+                "key": "drumrollfanfare"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/drumrollquack.mp3"
+                ],
+                "type": "audio",
+                "key": "drumrollquack"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/drunk.mp3"
+                ],
+                "type": "audio",
+                "key": "drunk"
+            },
+            {
+                "url": "assets/permanent_assets/Energy.png",
+                "type": "image",
+                "key": "Energy"
+            },
+            {
+                "url": "assets/permanent_assets/energybar2.png",
+                "type": "image",
+                "key": "energybar2"
+            },
+            {
+                "url": "assets/permanent_assets/energybar3.png",
+                "type": "image",
+                "key": "energybar3"
+            },
+            {
+                "url": "assets/permanent_assets/energybarorange.png",
+                "type": "image",
+                "key": "energybarorange"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/energycollected.mp3"
+                ],
+                "type": "audio",
+                "key": "energycollected"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/faint.mp3"
+                ],
+                "type": "audio",
+                "key": "faint"
+            },
+            {
+                "url": "assets/permanent_assets/finalbackground.png",
+                "type": "image",
+                "key": "finalbackground"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_01-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_01-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_02-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_02-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_03-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_03-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_04-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_04-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_05-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_05-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_06-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_06-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_07-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_07-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_08-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_08-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_09-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_09-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_10-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_10-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_11-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_11-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_12-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_12-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_13-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_13-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_14-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_14-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_15-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_15-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_16-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_16-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_17-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_17-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_18-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_18-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_19-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_19-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_20-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_20-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_21-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_21-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_22-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_22-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_23-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_23-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_24-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_24-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_25-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_25-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_26-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_26-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_27-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_27-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_28-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_28-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_29-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_29-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_30-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_30-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_31-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_31-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_32-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_32-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_33-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_33-01"
+            },
+            {
+                "url": "assets/temp_assets/oneshittyanimation/frame_34-01.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "frame_34-01"
+            },
+            {
+                "url": "assets/permanent_assets/GO.png",
+                "type": "image",
+                "key": "GO"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/grunt-1.mp3"
+                ],
+                "type": "audio",
+                "key": "grunt-1"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/grunt-2.mp3"
+                ],
+                "type": "audio",
+                "key": "grunt-2"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/grunt-3.mp3"
+                ],
+                "type": "audio",
+                "key": "grunt-3"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/grunt-4.mp3"
+                ],
+                "type": "audio",
+                "key": "grunt-4"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/grunt-5.mp3"
+                ],
+                "type": "audio",
+                "key": "grunt-5"
+            },
+            {
+                "url": "assets/permanent_assets/Hand.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Hand"
+            },
+            {
+                "url": "assets/permanent_assets/handwithbelt.png",
+                "type": "image",
+                "key": "handwithbelt"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/happystudy.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "happystudy"
+            },
+            {
+                "url": "assets/permanent_assets/healthbar1.png",
+                "type": "image",
+                "key": "healthbar1"
+            },
+            {
+                "url": "assets/permanent_assets/healthbar2.png",
+                "type": "image",
+                "key": "healthbar2"
+            },
+            {
+                "url": "assets/permanent_assets/healthbar3.png",
+                "type": "image",
+                "key": "healthbar3"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/healthdown.mp3"
+                ],
+                "type": "audio",
+                "key": "healthdown"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/hitonce.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "hitonce"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/hitthrice.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "hitthrice"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/hittwice.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "hittwice"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/impactanim.png",
+                "frameConfig": {
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "impactanim"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/ingame.mp3"
+                ],
+                "type": "audio",
+                "key": "ingame"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/justdrinking.mp3"
+                ],
+                "type": "audio",
+                "key": "justdrinking"
+            },
+            {
+                "url": "assets/permanent_assets/logoWhiteThick.png",
+                "type": "image",
+                "key": "logoWhiteThick"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/mainmenu.mp3"
+                ],
+                "type": "audio",
+                "key": "mainmenu"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/momandsonfootsteps.mp3"
+                ],
+                "type": "audio",
+                "key": "momandsonfootsteps"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/momanger.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "momanger"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/momangry.mp3"
+                ],
+                "type": "audio",
+                "key": "momangry"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/momappreciating.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "momappreciating"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/momarrival.mp3"
+                ],
+                "type": "audio",
+                "key": "momarrival"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/momfootsteps.mp3"
+                ],
+                "type": "audio",
+                "key": "momfootsteps"
+            },
+            {
+                "url": "assets/permanent_assets/momicon.png",
+                "type": "image",
+                "key": "momicon"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/momsatisfied-1.mp3"
+                ],
+                "type": "audio",
+                "key": "momsatisfied-1"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/momsatisfied-2.mp3"
+                ],
+                "type": "audio",
+                "key": "momsatisfied-2"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/momwalksleft.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "momwalksleft"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/momwalksright.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "momwalksright"
+            },
+            {
+                "url": "assets/permanent_assets/spritesheets/neutralstudy.png",
+                "frameConfig": {
+                    "frameWidth": 800,
+                    "frameHeight": 800,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "neutralstudy"
+            },
+            {
+                "url": "assets/permanent_assets/newPaper.png",
+                "type": "image",
+                "key": "newPaper"
+            },
+            {
+                "url": "assets/permanent_assets/ONE.png",
+                "type": "image",
+                "key": "ONE"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/outro.mp3"
+                ],
+                "type": "audio",
+                "key": "outro"
+            },
+            {
+                "url": "assets/permanent_assets/playagain.png",
+                "type": "image",
+                "key": "playagain_1"
+            },
+            {
+                "url": "assets/permanent_assets/playbutton.png",
+                "type": "image",
+                "key": "playbutton"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/policecar.mp3"
+                ],
+                "type": "audio",
+                "key": "policecar"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/powerupfloatingin.mp3"
+                ],
+                "type": "audio",
+                "key": "powerupfloatingin"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/roomjoin.mp3"
+                ],
+                "type": "audio",
+                "key": "roomjoin"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/roomleave.mp3"
+                ],
+                "type": "audio",
+                "key": "roomleave"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/runningunconscious.mp3"
+                ],
+                "type": "audio",
+                "key": "runningunconscious"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/schoolbells.mp3"
+                ],
+                "type": "audio",
+                "key": "schoolbells"
+            },
+            {
+                "url": "assets/permanent_assets/scorerectangle.png",
+                "type": "image",
+                "key": "scorerectangle"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/shadows.png",
+                "type": "image",
+                "key": "shadows"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/shelf.png",
+                "type": "image",
+                "key": "shelf"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/sipping.mp3"
+                ],
+                "type": "audio",
+                "key": "sipping"
+            },
+            {
+                "url": "assets/permanent_assets/smallnext.png",
+                "type": "image",
+                "key": "smallnext"
+            },
+            {
+                "url": "assets/permanent_assets/smallPaper.png",
+                "type": "image",
+                "key": "smallPaper"
+            },
+            {
+                "url": "assets/permanent_assets/smallskip.png",
+                "type": "image",
+                "key": "smallskip"
+            },
+            {
+                "url": "assets/permanent_assets/startgame.png",
+                "type": "image",
+                "key": "startgame_1"
+            },
+            {
+                "url": "assets/permanent_assets/swingandhit.png",
+                "type": "image",
+                "key": "swingandhit"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/swingtohit.mp3"
+                ],
+                "type": "audio",
+                "key": "swingtohit"
+            },
+            {
+                "url": "assets/permanent_assets/swingtohitbar.png",
+                "type": "image",
+                "key": "swingtohitbar"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/table.png",
+                "type": "image",
+                "key": "table"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/tablept1.png",
+                "type": "image",
+                "key": "tablept1"
+            },
+            {
+                "url": "assets/permanent_assets/background_assets/tablept2.png",
+                "type": "image",
+                "key": "tablept2"
+            },
+            {
+                "url": "assets/permanent_assets/THREE.png",
+                "type": "image",
+                "key": "THREE"
+            },
+            {
+                "url": "assets/permanent_assets/timercircle.png",
+                "type": "image",
+                "key": "timercircle"
+            },
+            {
+                "url": "assets/permanent_assets/TIMEUP.png",
+                "type": "image",
+                "key": "TIMEUP"
+            },
+            {
+                "url": "assets/permanent_assets/TWO.png",
+                "type": "image",
+                "key": "TWO"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/wakeup.mp3"
+                ],
+                "type": "audio",
+                "key": "wakeup"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/yelp-1.mp3"
+                ],
+                "type": "audio",
+                "key": "yelp-1"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/yelp-2.mp3"
+                ],
+                "type": "audio",
+                "key": "yelp-2"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/yelp-3.mp3"
+                ],
+                "type": "audio",
+                "key": "yelp-3"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/yelp-4.mp3"
+                ],
+                "type": "audio",
+                "key": "yelp-4"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/yelp-5.mp3"
+                ],
+                "type": "audio",
+                "key": "yelp-5"
+            },
+            {
+                "url": [
+                    "assets/permanent_assets/allsounds/yelp-6.mp3"
+                ],
+                "type": "audio",
+                "key": "yelp-6"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
